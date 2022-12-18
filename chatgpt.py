@@ -2,9 +2,9 @@ import streamlit as st
 from streamlit_chat import message
 
 import openai
-from config import open_api_key
-openai.api_key = open_api_key
-
+#from config import open_api_key
+#openai.api_key = open_api_key
+openai.api_key=st.secrets["open_ai_key"]
 # openAI code
 def openai_create(prompt):
 
