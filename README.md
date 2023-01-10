@@ -1,6 +1,6 @@
 # chatgpt-clone
-Build Your own ChatGPT with OpenAI API and Streamlit
-
+Build Your own ChatGPT with OpenAI API GPT2 and Streamlit
+Check current version at https://iamashwin99-chatgpt-clone-chatgpt-qrap9l.streamlit.app/
 - Get your OpenAI API key here - https://beta.openai.com/account/api-keys
 - Replace that key in the `config.py` code
 - Install the required libraries `pip install -r requirements.txt`
